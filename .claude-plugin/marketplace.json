@@ -7,7 +7,23 @@
     {
       "name": "luna-rules",
       "source": "./",
-      "description": "르나 공통 작업 규칙(RULES.md)을 세션 시작 때마다 불러온다."
+      "description": "르나 공통 규칙(RULES.md) 자동 적용 + 공통 스킬(stop-slop 한국어판, browser-use)"
+    },
+    {
+      "name": "duckdb-skills",
+      "source": {
+        "source": "github",
+        "repo": "duckdb/duckdb-skills"
+      },
+      "description": "DuckDB로 데이터 파일 읽기·SQL 조회 (duckdb CLI 필요)"
+    },
+    {
+      "name": "last30days",
+      "source": {
+        "source": "github",
+        "repo": "mvanhorn/last30days-skill"
+      },
+      "description": "최근 30일 Reddit·X·YouTube 등 여론 조사 (python3, node 필요)"
     }
   ],
   "metadata": {
