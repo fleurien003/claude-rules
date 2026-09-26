@@ -1,0 +1,16 @@
+{
+  "name": "claude-rules",
+  "owner": {
+    "name": "fleurien003"
+  },
+  "plugins": [
+    {
+      "name": "luna-rules",
+      "source": "./",
+      "description": "르나 공통 작업 규칙(RULES.md)을 세션 시작 때마다 불러온다."
+    }
+  ],
+  "metadata": {
+    "description": "르나 개인 규칙 마켓플레이스"
+  }
+}

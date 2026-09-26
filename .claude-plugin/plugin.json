@@ -1,0 +1,5 @@
+{
+  "name": "luna-rules",
+  "description": "르나 공통 작업 규칙(RULES.md)을 세션 시작 때마다 불러온다.",
+  "author": { "name": "fleurien003" }
+}
