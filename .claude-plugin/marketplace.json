@@ -7,7 +7,7 @@
     {
       "name": "luna-rules",
       "source": "./",
-      "description": "르나 공통 규칙(RULES.md) 자동 적용 + 공통 스킬(stop-slop 한국어판, browser-use, session-handoff)"
+      "description": "르나 공통 규칙(RULES.md) 자동 적용 + 공통 스킬(stop-slop 한국어판, browser-use, save, continue)"
     },
     {
       "name": "duckdb-skills",
