@@ -1,6 +1,6 @@
 {
   "name": "luna-rules",
-  "description": "르나 공통 규칙(RULES.md) 자동 적용 + 공통 스킬(stop-slop 한국어판, browser-use, save, continue)",
+  "description": "르나 공통 규칙(RULES.md) 자동 적용 + 공통 스킬(stop-slop 한국어판, browser-use, save, go)",
   "author": {
     "name": "fleurien003"
   }
