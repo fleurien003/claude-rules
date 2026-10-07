@@ -21,7 +21,7 @@ Claude Code 안에서:
 /plugin install last30days@claude-rules
 ```
 
-- `luna-rules`: 공통 규칙 + 공통 스킬(`/luna-rules:stop-slop` 한국어판, `/luna-rules:browser-use`)
+- `luna-rules`: 공통 규칙 + 공통 스킬(`/luna-rules:stop-slop` 한국어판, `/luna-rules:browser-use`, `/luna-rules:session-handoff` 작업 저장·이어받기)
 - `duckdb-skills`, `last30days`: 원본 저장소에서 바로 받아 설치 (선택)
 - 스킬 추가·수정 후 반영하려면 `/plugin` → Marketplaces → claude-rules → Enable auto-update를 켜 둔다.
 
